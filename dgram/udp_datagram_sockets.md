@@ -3,8 +3,7 @@
 
 <!-- name=dgram -->
 
-The `dgram` module provides an implementation of UDP Datagram sockets.
-
+ `dgram` 模块提供了 UDP Datagram sockets 的应用接口。
 ```js
 const dgram = require('dgram');
 const server = dgram.createSocket('udp4');
