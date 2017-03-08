@@ -3,7 +3,7 @@
 
 `tty` 模块提供了 `tty.ReadStream` 类和 `tty.WriteStream` 类。
 大多数情况下无需直接使用此模块。
-它可以通过以下方式使用：
+可以通过以下方式使用：
 
 ```js
 const tty = require('tty');
